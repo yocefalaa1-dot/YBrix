@@ -1,4 +1,4 @@
-const API_URL='/api/chat';
+const API_URL='/.netlify/functions/api';
 const IMAGE_API = 'https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell';
 
 let chatHistory = [];
