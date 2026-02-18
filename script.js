@@ -1,4 +1,4 @@
-const API_URL = 'https://youssefybrix-ybrix-api.hf.space/chat';
+const API_URL='/api/chat';
 const IMAGE_API = 'https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell';
 
 let chatHistory = [];
